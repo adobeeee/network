@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":networkmonitor"><source path="D:\exercise\NetworkMonitoring\networkmonitor\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\exercise\NetworkMonitoring\app\src\main\assets"/><source path="D:\exercise\NetworkMonitoring\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\exercise\NetworkMonitoring\app\src\debug\assets"/></dataSet></merger>
